@@ -1,3 +1,4 @@
+
 [![No G](https://raw.githubusercontent.com/nickspaargaren/no-google/master/images/GAFAMSPLATTEXTNOGgit.png)](https://github.com/nickspaargaren/no-google)
 
 # Definition of GAFAM
